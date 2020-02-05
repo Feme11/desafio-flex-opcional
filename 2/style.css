@@ -1,0 +1,29 @@
+form {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.text-box {
+  margin: 0;
+  border: 1px solid darkgray;
+  position: relative;
+  width: 300px;
+  height: 46px;
+}
+button{
+background-color: #2dc6c6;
+border: 1px solid darkgray;
+  border-left: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 16px;
+  margin: 0;
+  cursor: pointer;
+   }
